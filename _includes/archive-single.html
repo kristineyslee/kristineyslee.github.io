@@ -46,6 +46,14 @@
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
+    {% if post.video %}
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 0.5em 0 1em;">
+        <iframe src="https://www.youtube.com/embed/{{ post.video }}"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+                allowfullscreen></iframe>
+      </div>
+    {% endif %}
+    
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
