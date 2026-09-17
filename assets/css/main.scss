@@ -37,3 +37,31 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Projects grid: 3 columns */
+.grid__wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+}
+@media (min-width: 600px) {
+  .grid__wrapper { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 768px) {
+  .grid__wrapper { grid-template-columns: repeat(3, 1fr); }
+}
+.grid__wrapper .grid__item {
+  width: auto !important;
+  margin: 0 !important;
+  float: none !important;
+  clear: none !important;
+}
+
+/* Teaser images: full width, no height limit */
+.grid__item .archive__item-teaser {
+  max-height: none;
+}
+.grid__item .archive__item-teaser img {
+  width: 100%;
+  height: auto;
+}
