@@ -2,6 +2,8 @@
 title: "In-Pipe Cleaning Robot for Semiconductor Fabs"
 excerpt: "Most Outstanding Completer, Samsung Talent Internship Program, 2024"
 collection: portfolio
+header:
+  teaser: samsung.jpg
 ---
 
 **Award:** Certificate for the Most Outstanding Completer, Samsung Talent Internship Program — Samsung Electronics Device Solutions (Aug. 2024)
