@@ -2,6 +2,8 @@
 title: "Wireless IMU Glove Mouse"
 excerpt: "Encouragement Prize, SNU Mechatronics Contest, 2024"
 collection: portfolio
+header:
+  teaser: airglove.jpg
 ---
 
 **Award:** Encouragement Prize, SNU Mechatronics Contest — Department of Mechanical Engineering, Seoul National University (Jun. 2024)
