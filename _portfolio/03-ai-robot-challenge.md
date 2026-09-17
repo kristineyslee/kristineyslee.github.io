@@ -2,6 +2,8 @@
 title: "Autonomous Vision-Based Grasping Robot"
 excerpt: "3rd Place, SNU ME AI Robot Challenge, 2026"
 collection: portfolio
+header:
+  teaser: airobot.jpg
 ---
 
 **Award:** 3rd Place, SNU ME AI Robot Challenge — Department of Mechanical Engineering, Seoul National University (Jul. 2026)
