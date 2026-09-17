@@ -2,6 +2,8 @@
 title: "Trapping of Link-bots in Porous Environments"
 excerpt: "Grand Prize, SNU Creative Design Festival (Research Division), 2026"
 collection: portfolio
+header:
+  teaser: linkbot.jpg
 ---
 
 **Award:** Grand Prize, Creative Design Festival, Research Division — College of Engineering, Seoul National University (Sep. 2026)
