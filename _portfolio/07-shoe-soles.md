@@ -3,7 +3,7 @@ title: "Friction-Optimized Shoe Sole Design"
 excerpt: "Outstanding Materials and Manufacturing Processes Award, 2024"
 collection: portfolio
 header:
-  teaser: shoesole.jpg
+  teaser: shoesole.png
 ---
 
 **Award:** Outstanding Materials and Manufacturing Processes Award, 2024 MMP Contest — Department of Mechanical Engineering, Seoul National University (Jun. 2024)
