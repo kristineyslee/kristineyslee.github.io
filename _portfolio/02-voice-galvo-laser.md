@@ -2,6 +2,8 @@
 title: "Voice-Controlled Galvo Laser Pointer"
 excerpt: "Bronze Prize, SNU Creative Design Festival (Creative Project Division), 2026"
 collection: portfolio
+header:
+  teaser: luxmea.jpg
 ---
 
 **Award:** Bronze Prize, Creative Design Festival, Creative Project Division — College of Engineering, Seoul National University (Sep. 2026)
