@@ -2,6 +2,8 @@
 title: "Robotic Arm Control in Simulation"
 excerpt: "2nd Runner Up, ROBOCON International Design Contest, 2023"
 collection: portfolio
+header:
+  teaser: robocon.jpg
 ---
 
 **Award:** 2nd Runner Up, ROBOCON International Design Contest 2023 (Hybrid) — Chulalongkorn University (Aug. 2023)
