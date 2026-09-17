@@ -2,6 +2,8 @@
 title: "Rube Goldberg Machine"
 excerpt: "2nd Place, Collegiate Rube Goldberg World Championship, 2025"
 collection: portfolio
+header:
+  teaser: goldberg.jpg
 ---
 
 **Award:** 2nd Place, Collegiate Rube Goldberg World Championship — Rube Goldberg Institute (Mar. 2025)
