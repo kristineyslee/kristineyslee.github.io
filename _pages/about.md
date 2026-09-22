@@ -13,7 +13,7 @@ I am currently a research intern at the **Microfluids & Soft Matter Laboratory**
 
 Previously, I worked on multi-object robotic grasping at the **SNU Biorobotics Laboratory** with Prof. Kyu-Jin Cho, contributing to [MOGrip](https://doi.org/10.1126/scirobotics.ado3939) (*Science Robotics*, 2024). As a Summer Undergraduate Research Fellow at **Purdue University**, I developed path planning algorithms for a 6-DOF robotic arm with Prof. Martin Byung-Guk Jun.
 
-**I am applying to Ph.D. programs for Fall 2027.
+**I am applying to Ph.D. programs for Fall 2027.**
 
 ## News
 
