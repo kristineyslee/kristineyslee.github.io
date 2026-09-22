@@ -26,13 +26,13 @@ Education
 
 Journal Publications
 ======
-* **[J.1]** Jaemin Eom, Sung Yol Yu, Woongbae Kim, Chunghoon Park, **Kristine Yoonseo Lee**, Kyu-Jin Cho<sup>*</sup>. (2024). [MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers](https://doi.org/10.1126/scirobotics.ado3939). *Science Robotics*, 9(97), eado3939.
+* **[J.1]** Jaemin Eom, Sung Yol Yu, Woongbae Kim, Chunghoon Park, **Kristine Yoonseo Lee**, Kyu-Jin Cho<sup>&#42;</sup>. (2024). [MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers](https://doi.org/10.1126/scirobotics.ado3939). *Science Robotics*, 9(97), eado3939.
 
-<small><sup>*</sup>Corresponding author</small>
+<small><sup>&#42;</sup>Corresponding author</small>
 
 Presentations
 ======
-* **[P.1]** **Kristine Yoonseo Lee**, Kwanwoo Kim, Ho-Young Kim<sup>*</sup>. (2026). Spatial Distribution of Flexibility Controls Active Chain Locomotion through Confined Lattices. Poster to be presented at IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 11, 2026, Cambridge, MA, USA. (Accepted)
+* **[P.1]** **Kristine Yoonseo Lee**, Kwanwoo Kim, Ho-Young Kim<sup>&#42;</sup>. (2026). Spatial Distribution of Flexibility Controls Active Chain Locomotion through Confined Lattices. Poster to be presented at IEEE MIT Undergraduate Research Technology Conference (URTC), Oct. 11, 2026, Cambridge, MA, USA. (Accepted)
 
 Research & Work Experience
 ======
