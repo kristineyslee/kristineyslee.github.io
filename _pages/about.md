@@ -13,15 +13,15 @@ I am currently a research intern at the **Microfluids & Soft Matter Laboratory**
 
 Previously, I worked on multi-object robotic grasping at the **SNU Biorobotics Laboratory** with Prof. Kyu-Jin Cho, contributing to [MOGrip](https://doi.org/10.1126/scirobotics.ado3939) (*Science Robotics*, 2024). As a Summer Undergraduate Research Fellow at **Purdue University**, I developed path planning algorithms for a 6-DOF robotic arm with Prof. Martin Byung-Guk Jun.
 
-I am applying to Ph.D. programs for Fall 2027.
+**I am applying to Ph.D. programs for Fall 2027.
 
 ## News
 
-- **Oct 2026** — Presenting a poster at IEEE MIT URTC 2026 in Cambridge, MA!
-- **Sep 2026** — Received the Grand Prize (Research Division) and Bronze Prize (Creative Project Division) at the SNU Creative Design Festival!
-- **Jul 2026** — 3rd Place at the SNU ME AI Robot Challenge!
-- **Mar 2025** — 2nd Place at the Collegiate Rube Goldberg World Championship with the Purdue ASME team!
-- **Dec 2024** — Co-authored paper *MOGrip* published in *Science Robotics*!
+- **Oct 2026** — Presenting a poster at IEEE MIT URTC 2026 in Cambridge, MA.
+- **Sep 2026** — Received the Grand Prize (Research Division) and Bronze Prize (Creative Project Division) at the SNU Creative Design Festival.
+- **Jul 2026** — 3rd Place at the SNU ME AI Robot Challenge.
+- **Mar 2025** — 2nd Place at the Collegiate Rube Goldberg World Championship with the Purdue ASME team.
+- **Dec 2024** — Co-authored paper *MOGrip* published in *Science Robotics*.
 
 ## Education
 
