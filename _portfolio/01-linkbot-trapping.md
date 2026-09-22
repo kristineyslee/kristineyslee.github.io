@@ -15,4 +15,4 @@ We studied how chain-like link-bots move through porous environments and what ma
 <!-- 대표 그림: <img src="/images/linkbot-main.png" width="600"> -->
 <!-- 영상: <iframe width="100%" height="400" src="https://www.youtube.com/embed/영상ID" frameborder="0" allowfullscreen></iframe> -->
 
-Related presentation: [IEEE MIT URTC 2026 poster](/talks/2026-urtc)
+Related presentation: [IEEE MIT URTC 2026 poster](/talks/)
