@@ -15,7 +15,6 @@ name                     : &name "Kristine Yoonseo Lee"
 description              : &description "Academic homepage of Kristine Yoonseo Lee, Mechanical Engineering Student at Seoul National University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kristineyslee.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-og_image: "background.png"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kristineyslee/kristineyslee.github.io"
 
@@ -144,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 :  "background.png"
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
