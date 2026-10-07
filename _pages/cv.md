@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interests
 ======
-Passionate about developing novel robotic systems that address real-world challenges and enhance human capabilities. My research interests span soft robotics, swarm robotics, and bio-inspired robotics, with a focus on creating innovative mechanisms beyond conventional robotic designs.
+Passionate about developing novel robotic systems that address real-world challenges and enhance human capabilities. My research interests span soft, swarm, and bio-inspired robotics, with a focus on how material and structural mechanics give rise to robotic function, from individual mechanisms to collective behavior.
 
 Education
 ======
@@ -61,7 +61,9 @@ Research & Work Experience
 
 Selected Honors and Awards
 ======
-* **Presidential Scholarship of South Korea**, President of South Korea *(Mar. 2022 – Jun. 2026)*
+* *(Applicant)* **NSF Graduate Research Fellowship Program (GRFP)**, U.S. National Science Foundation *(Apr. 2027, expected)*
+  * Applicant in the 2027 GRFP competition, award decisions expected in April 2027
+* **Presidential Science Scholarship of South Korea**, President of South Korea *(Mar. 2022 – Jun. 2026)*
   * Presidential scholarship for STEM undergraduate students, full-ride scholarship
 * **Grand Prize**, Creative Design Festival, Research Division, College of Engineering, SNU *(Sep. 2026)*
   * Presented research on trapping behaviors of link-bots in porous environments
@@ -69,6 +71,8 @@ Selected Honors and Awards
   * Designed and built a voice-controlled galvo laser system for pointing to spoken targets on physical surfaces
 * **3rd Place**, SNU ME AI Robot Challenge, Department of Mechanical Engineering, SNU *(Jul. 2026)*
   * Developed an AI-driven robot capable of vision-based object recognition, grasping, and navigation
+* **Grand Prize**, Synergy Lab Network, Chey Institute for Advanced Studies *(Mar. 2026)*
+  * Proposed a cross-laboratory collaborative research idea, *Neural Response: Latency-Free Hand*
 * **2nd Place**, Collegiate Rube Goldberg World Championship, Rube Goldberg Institute *(Mar. 2025)*
   * Designed and fabricated a Rube Goldberg system
 * **Certificate for the Most Outstanding Completer**, Samsung Talent Internship Program, Samsung Electronics Device Solutions *(Aug. 2024)*
