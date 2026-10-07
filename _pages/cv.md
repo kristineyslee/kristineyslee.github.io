@@ -61,7 +61,7 @@ Research & Work Experience
 
 Selected Honors and Awards
 ======
-* *(Applicant)* **NSF Graduate Research Fellowship Program (GRFP)**, U.S. National Science Foundation *(Apr. 2027, expected)*
+* *(Applicant)* **NSF Graduate Research Fellowship Program (GRFP)**, U.S. National Science Foundation
   * Applicant in the 2027 GRFP competition, award decisions expected in April 2027
 * **Presidential Science Scholarship of South Korea**, President of South Korea *(Mar. 2022 – Jun. 2026)*
   * Presidential scholarship for STEM undergraduate students, full-ride scholarship
