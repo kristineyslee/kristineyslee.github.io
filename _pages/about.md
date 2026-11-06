@@ -17,7 +17,7 @@ Previously, I worked on multi-object robotic grasping at the **SNU Biorobotics L
 
 ## News
 
-- **Oct 2026** — Presenting a poster at IEEE MIT URTC 2026 in Cambridge, MA.
+- **Oct 2026** — Presented a poster at IEEE MIT URTC 2026 in Cambridge, MA.
 - **Sep 2026** — Received the Grand Prize (Research Division) and Bronze Prize (Creative Project Division) at the SNU Creative Design Festival.
 - **Jul 2026** — 3rd Place at the SNU ME AI Robot Challenge.
 - **Mar 2025** — 2nd Place at the Collegiate Rube Goldberg World Championship with the Purdue ASME team.
