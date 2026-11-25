@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ base_path }}/files/Lee_Kristine_CV261125.pdf">📄 Download CV (PDF)</a> <small>(Last updated: Nov. 2026)</small></p>
+<p><a href="{{ base_path }}/files/Lee_Kristine_CV(261125).pdf">📄 Download CV (PDF)</a> <small>(Last updated: Nov. 2026)</small></p>
 
 Research Interests
 ======
