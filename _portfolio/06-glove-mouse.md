@@ -21,5 +21,3 @@ Commercial air mice try to copy every function of a regular mouse, which makes t
 * Wrote the code that detects hand motion from the IMU data and turns it into mouse actions
 
 **Results:** A working wireless prototype built for about ₩24,000 in parts.
-
-<img src="/images/airglove.jpg" alt="Glove mouse prototype with IMU sensors and wiring, and the finished glove" style="width: 100%; max-width: 600px;">

@@ -24,5 +24,3 @@ Slippers and worn shoes are a common cause of falls on wet floors and stairs. We
 **Results**
 * Attaching the new outsole to a slipper raised the friction coefficient from about 0.37–0.43 to 0.45–0.72 on all four surfaces tested, including a wet floor (0.43 → 0.67)
 * About ₩7,700 in materials per outsole, with reusable molds suited to mass production
-
-<img src="/images/shoesole.jpg" alt="Friction test results for each tread pattern and material" style="width: 100%; max-width: 600px;">

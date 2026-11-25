@@ -13,5 +13,3 @@ ROBOCON is an international robot design contest hosted by Chulalongkorn Univers
 
 **What I did**
 * Simulated a robotic arm in Gazebo and tuned its motion parameters to complete the online tasks
-
-<img src="/images/robocon.jpg" alt="ROBOCON International Design Contest 2023" style="width: 100%; max-width: 600px;">

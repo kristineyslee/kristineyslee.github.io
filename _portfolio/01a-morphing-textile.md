@@ -16,6 +16,4 @@ Coiled yarn actuators contract when they get wet. By choosing where these actuat
 * Showed that different actuator arrangements make the same flat textile deform into different shapes when wet
 * Applied the textiles to a humidity-responsive filter
 
-<img src="/images/morphing.jpg" alt="Conceptual illustration of textile deformation modes: twisting, shrinking, and bending" style="width: 100%; max-width: 600px;">
-
 This project is ongoing, and detailed results will be shared upon publication.

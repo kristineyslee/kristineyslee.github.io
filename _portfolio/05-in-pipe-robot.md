@@ -14,6 +14,4 @@ Pipes in semiconductor fabrication facilities change in diameter along their len
 **What I did**
 * Designed a wheel mechanism that uses a torsion spring structure to adapt passively to changing pipe diameters
 
-<img src="/images/samsung.jpg" alt="In-pipe cleaning robot concept" style="width: 100%; max-width: 600px;">
-
 *Details are omitted due to confidentiality.*

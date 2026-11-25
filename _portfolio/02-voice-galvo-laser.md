@@ -26,8 +26,6 @@ A hand-held laser pointer ties up the presenter's hand, and fumbling with it mid
 * 80% hit rate on live speech, 100% on text input
 * 1.13 mm smallest aiming step at 0.7 m, and over 3 hours of continuous operation
 
-<img src="/images/luxmea.jpg" alt="LUX MEA prototype marking a projected slide, and the inside of its enclosure" style="width: 100%; max-width: 600px;">
-
 **Poster** (click to view full size)
 
 <a href="/images/luxmea-poster.jpg"><img src="/images/luxmea-poster.jpg" alt="LUX MEA poster" style="width: 100%;"></a>
