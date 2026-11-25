@@ -20,7 +20,7 @@ Education
 ======
 * **Seoul National University** — B.S. in Mechanical Engineering, Seoul, South Korea *(Mar. 2022 – Feb. 2027, expected)*
   * GPA: 3.91/4.00
-* **Purdue University** — Exchange Student, Department of Mechanical Engineering, West Lafayette, IN, USA *(Jan. 2025 – May 2025)*
+* **Purdue University** — Exchange Student, Mechanical Engineering, West Lafayette, IN, USA *(Jan. 2025 – May 2025)*
   * GPA: 4.00/4.00
 * **Gyeonggi Science High School for the Gifted** — Major in Physics, Suwon, South Korea *(Mar. 2019 – Jan. 2022)*
   * GPA: 4.17/4.30
