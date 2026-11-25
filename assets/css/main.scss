@@ -107,7 +107,8 @@
 .talk-item__meta {
   margin-bottom: 0.6em;
   font-size: 0.85em;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
+  opacity: 0.8;
 }
 .talk-item__body p:last-child {
   margin-bottom: 0;
