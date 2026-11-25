@@ -18,8 +18,8 @@ Research Interests
 
 Education
 ======
-* **Seoul National University** — B.S. in Mechanical Engineering, Seoul, South Korea *(Mar. 2022 – Feb. 2027)*
-  * Expected Feb. 2027 | GPA: 3.91/4.00
+* **Seoul National University** — B.S. in Mechanical Engineering, Seoul, South Korea *(Mar. 2022 – Feb. 2027, expected)*
+  * GPA: 3.91/4.00
 * **Purdue University** — Exchange Student, Department of Mechanical Engineering, West Lafayette, IN, USA *(Jan. 2025 – May 2025)*
   * GPA: 4.00/4.00
 * **Gyeonggi Science High School for the Gifted** — Major in Physics, Suwon, South Korea *(Mar. 2019 – Jan. 2022)*
@@ -44,21 +44,21 @@ Presentations
 
 Research & Work Experience
 ======
-* **SNU Microfluids & Soft Matter Laboratory** | Prof. Ho-Young Kim *(Sep. 2025 – Present)*  
+* **SNU Microfluids & Soft Matter Laboratory** — Prof. Ho-Young Kim *(Sep. 2025 – Present)*  
   Undergraduate Researcher [I.1, P.2], Seoul, South Korea
   * **Link-bot Locomotion:** Demonstrated how joint-flexibility distribution governs link-bot locomotion through porous media; identified emergent collective behaviors in multi-link-bot systems
   * **Coiled Yarn Actuators:** Built humidity-responsive shape-morphing textiles and a pore-opening filter
 
-* **Purdue Laboratory for Advanced Multiscale Manufacturing** | Prof. Martin Byung-Guk Jun *(May 2025 – Aug. 2025)*  
+* **Purdue Laboratory for Advanced Multiscale Manufacturing** — Prof. Martin Byung-Guk Jun *(May 2025 – Aug. 2025)*  
   Undergraduate Research Fellow, Summer Undergraduate Research Fellowship (SURF) [P.1], West Lafayette, IN, USA
   * **Path Planning:** Developed a joint-weighted A* planner and validated it on a 6-DOF robotic arm
 
-* **SNU Biorobotics Laboratory** | Prof. Kyu-Jin Cho *(Jan. 2024 – Dec. 2024)*  
+* **SNU Biorobotics Laboratory** — Prof. Kyu-Jin Cho *(Jan. 2024 – Dec. 2024)*  
   Undergraduate Researcher [J.1], Seoul, South Korea
   * **Multiobject Gripper:** Contributed to MOGrip prototyping and developed an OpenCV-based performance evaluation pipeline
   * **Human Grasp Analysis:** Extracted dominant modes of human multi-object grasping via SVD
 
-* **Samsung Electronics** | Equipment Technology Research Institute *(Jul. 2024 – Aug. 2024)*  
+* **Samsung Electronics** — Equipment Technology Research Institute *(Jul. 2024 – Aug. 2024)*  
   Samsung Talent Internship Program, Hwaseong, South Korea
   * **Robot Design:** Designed a passively adaptive caster for a semiconductor-fab pipe-cleaning robot
 
