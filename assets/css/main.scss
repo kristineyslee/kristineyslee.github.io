@@ -66,9 +66,12 @@
   height: auto;
 }
 
-/* Publications & Talks: larger section and item titles */
+/* Publications & Talks: section headings (e.g., Journal Articles) */
 .archive > h2 {
-  font-size: 1.563em;
+  font-size: 1.25em;
+  margin: 1.2em 0 0.3em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--global-border-color);
 }
 .archive > h3 {
   font-size: 1.25em;
@@ -110,9 +113,36 @@
   color: var(--global-text-color);
   opacity: 0.8;
 }
+.talk-item__body p {
+  margin-bottom: 0.6em;
+}
+.talk-item__body p:not(.talk-item__meta) {
+  font-size: 0.9em;
+}
 .talk-item__body p:last-child {
   margin-bottom: 0;
-  font-size: 0.9em;
+}
+.talk-item__body h3 a {
+  text-decoration: none;
+}
+.talk-item__body h3 a:hover {
+  text-decoration: underline;
+}
+/* 16:9 video thumbnail (Publications) */
+.talk-item__video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.talk-item__video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 .talk-item__note {
   margin-top: 1em;
