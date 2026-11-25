@@ -6,6 +6,9 @@ header:
   teaser: luxmea.jpg
 ---
 
+<a href="/images/luxmea-poster.jpg"><img src="/images/luxmea-poster.jpg" alt="LUX MEA poster" style="width: 100%;"></a>
+<small>Click the poster to view it full size.</small>
+
 **Award:** Bronze Prize, Creative Design Festival, Creative Project Division — College of Engineering, Seoul National University (Sep. 2026)  
 **Team:** Kristine Yoonseo Lee (hardware design & fabrication), Youngchan Ryu (software & circuit)  
 **Period:** May 2026 – Sep. 2026
@@ -25,9 +28,5 @@ A hand-held laser pointer ties up the presenter's hand, and fumbling with it mid
 * 0.85 s from the end of a sentence to the laser mark
 * 80% hit rate on live speech, 100% on text input
 * 1.13 mm smallest aiming step at 0.7 m, and over 3 hours of continuous operation
-
-**Poster** (click to view full size)
-
-<a href="/images/luxmea-poster.jpg"><img src="/images/luxmea-poster.jpg" alt="LUX MEA poster" style="width: 100%;"></a>
 
 **Code:** Full code and setup are available on [GitHub](https://github.com/youngchan-ryu/lux_mea).
