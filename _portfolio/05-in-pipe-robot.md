@@ -6,8 +6,14 @@ header:
   teaser: samsung.jpg
 ---
 
+**Program:** Samsung Talent Internship Program — Equipment Technology Research Institute, Samsung Electronics (Jul. 2024 – Aug. 2024)  
 **Award:** Certificate for the Most Outstanding Completer, Samsung Talent Internship Program — Samsung Electronics Device Solutions (Aug. 2024)
 
-Developed a conceptual design for an in-pipe cleaning robot for semiconductor fabrication facilities, including a novel caster mechanism that moves smoothly through pipes of varying geometries and conditions.
+Pipes in semiconductor fabrication facilities change in diameter along their length, so a cleaning robot that travels inside them has to keep contact with the pipe wall as the size changes.
 
-<!-- 공개 가능한 그림만 넣기 -->
+**What I did**
+* Designed a wheel mechanism that uses a torsion spring structure to adapt passively to changing pipe diameters
+
+<img src="/images/samsung.jpg" alt="In-pipe cleaning robot concept" style="width: 100%; max-width: 600px;">
+
+*Details are omitted due to confidentiality.*

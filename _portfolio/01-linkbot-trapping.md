@@ -6,13 +6,17 @@ header:
   teaser: linkbot.jpg
 ---
 
+**Lab:** Microfluids & Soft Matter Laboratory, SNU (Prof. Ho-Young Kim)  
+**Period:** Sep. 2025 – Present  
 **Award:** Grand Prize, Creative Design Festival, Research Division — College of Engineering, Seoul National University (Sep. 2026)
 
-**Lab:** Microfluids & Soft Matter Laboratory, SNU (Prof. Ho-Young Kim)
+Link-bots are chain-like robots made of rigid units connected by joints. When such a robot moves through a cluttered, porous environment, the same body that lets it squeeze through gaps can also get it stuck. This project asks how the design of the chain and the geometry of its surroundings together decide whether it passes through or becomes trapped.
 
-We studied how chain-like link-bots move through porous environments and what makes them become trapped.
+**What I did**
+* Built a five-unit link-bot chain and systematically varied its geometric parameters
+* Varied the spacing between obstacles in an obstacle array to see how the environment shapes mobility
+* Explored how chain design and obstacle spacing together affect mobility
 
-<!-- 대표 그림: <img src="/images/linkbot-main.png" width="600"> -->
-<!-- 영상: <iframe width="100%" height="400" src="https://www.youtube.com/embed/영상ID" frameborder="0" allowfullscreen></iframe> -->
+<img src="/images/urtc.jpg" alt="Conceptual illustration of a link-bot passing through or becoming trapped among obstacles" style="width: 100%; max-width: 600px;">
 
-Related presentation: [IEEE MIT URTC 2026 poster](/talks/)
+Part of this work was presented as a poster at [IEEE MIT URTC 2026](/talks/). A manuscript is in preparation, and detailed results will be shared upon publication.

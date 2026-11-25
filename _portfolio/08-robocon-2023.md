@@ -6,8 +6,12 @@ header:
   teaser: robocon.jpg
 ---
 
-**Award:** 2nd Runner Up, ROBOCON International Design Contest 2023 (Hybrid) — Chulalongkorn University (Aug. 2023)
+**Award:** 2nd Runner Up, ROBOCON International Design Contest 2023 (Hybrid) — Chulalongkorn University (Aug. 2023)  
+**Participation:** Korean national representative, online track
 
-Controlled a robotic arm and tuned its motion parameters in a Gazebo simulation.
+ROBOCON is an international robot design contest hosted by Chulalongkorn University. I took part in the hybrid format of the 2023 contest, completing the online robotics tasks.
 
-<!-- 시뮬레이션 영상 -->
+**What I did**
+* Simulated a robotic arm in Gazebo and tuned its motion parameters to complete the online tasks
+
+<img src="/images/robocon.jpg" alt="ROBOCON International Design Contest 2023" style="width: 100%; max-width: 600px;">
